@@ -2,6 +2,14 @@
 
 Éste es un repositorio del frontend para el examen tecnico Fullstack de un Junior - CRUD
 
+
+se clona el repositorio en el directorio deseado y se ejecuta el comando en la terminal git clone repositorio.com
+
+se instalan las dependencias npm i en el directorio interno del proyecto
+
+y se inicializa el servidor npm run dev
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
